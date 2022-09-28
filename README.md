@@ -1,7 +1,7 @@
-Hi 👋 My name is Samuel de la Cruz
+Hi 👋 My name is Samuel de la Cruz (A.K.A Sami)
 ==================================
 
-Frontend Web Developer
+Frontend Developer
 ----------------------
 
 I started when I was a teenager creating a file on my notepad with the extension EXE and with the START command inside, now I'm a software developer, it's a weird way but it was my ride.
