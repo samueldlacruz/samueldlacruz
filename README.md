@@ -6,9 +6,9 @@ Frontend Developer
 
 I started when I was a teenager creating a file on my notepad with the extension EXE and with the START command inside, now I'm a software developer, it's a weird way but it was my ride.
 
-* 🌍  I'm based in Dominican Republic
+* 🌍  I'm based in the Dominican Republic
 * ✉️  You can contact me at [samueldlacg@gmail.com](mailto:samueldlacg@gmail.com)
-* 🧠  I'm learning AWS 3, Vue 3, and another programming language
+* 🧠  I'm learning AWS 3, Astro.
 
 ### Skills
 
